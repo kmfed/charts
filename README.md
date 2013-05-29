@@ -21,5 +21,6 @@ charts
   - [jqplot](http://www.jqplot.com/deploy/dist/examples/)
   - [D3](http://d3js.org/)
   - [chartjs](http://chartjs.devexpress.com/)
+  - [fusioncharts](http://www.fusioncharts.com/)
 
 
