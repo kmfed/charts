@@ -18,6 +18,8 @@ charts
 
 - 第三方网站提供他们认为的图表解决方案：
   - [highcharts](http://www.highcharts.com/)
+  - [jqplot](http://www.jqplot.com/deploy/dist/examples/)
+  - [D3](http://d3js.org/)
   - [chartjs](http://chartjs.devexpress.com/)
 
 
